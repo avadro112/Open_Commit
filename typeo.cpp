@@ -11,6 +11,7 @@ int main ()
     int num = 10;
     int num1 = 1000;
     swap(num,num1);
-    cout<<
-
+    cout<<num<<endl;
+    cout<<num1<<endl;
+    return 0
 }
